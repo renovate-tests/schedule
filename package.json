@@ -1,0 +1,24 @@
+{
+  "name": "jest-playback",
+  "version": "1.0.0",
+  "description": "Record and playback http requests from your Jest tests",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": "https://github.com/ikatyang/jest-playback",
+  "homepage": "https://github.com/ikatyang/jest-playback#readme",
+  "author": {
+    "name": "Ika",
+    "email": "ikatyang@gmail.com",
+    "url": "https://github.com/ikatyang"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "ls -l"
+  },
+  "dependencies": {
+    "auth0-js": "8.9.2"
+  },
+  "renovate": {
+    "schedule": "after 10pm and before 1pm"
+  }
+}
