@@ -19,6 +19,6 @@
     "auth0-js": "8.9.2"
   },
   "renovate": {
-    "schedule": "after 10pm or before 7am"
+    "schedule": "after 10pm and before 7am"
   }
 }
