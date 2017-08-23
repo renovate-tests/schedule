@@ -16,7 +16,7 @@
     "test": "ls -l"
   },
   "dependencies": {
-    "auth0-js": "8.9.2"
+    "auth0-js": "8.9.3"
   },
   "renovate": {
     "schedule": "after 10pm or before 7am"
